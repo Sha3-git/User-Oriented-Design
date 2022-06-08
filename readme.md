@@ -12,4 +12,4 @@
  * Initial website demo in wordpress
     * Initial-Wordpress-Site-Demo
  * Wordpress-based persona Website
-    -....
+    -Persona-Site
